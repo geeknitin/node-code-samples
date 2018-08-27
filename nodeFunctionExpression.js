@@ -27,3 +27,5 @@ function callFunction(fun)
 
 
 callFunction(sayBye);
+
+module.exports = {sayHi, sayBye};
